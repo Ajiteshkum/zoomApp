@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/zoomApp/static/css/main.fa727fdb.chunk.css",
+    "main.js": "/zoomApp/static/js/main.86346964.chunk.js",
+    "main.js.map": "/zoomApp/static/js/main.86346964.chunk.js.map",
+    "runtime-main.js": "/zoomApp/static/js/runtime-main.abc7b9dd.js",
+    "runtime-main.js.map": "/zoomApp/static/js/runtime-main.abc7b9dd.js.map",
+    "static/js/2.fea0becf.chunk.js": "/zoomApp/static/js/2.fea0becf.chunk.js",
+    "static/js/2.fea0becf.chunk.js.map": "/zoomApp/static/js/2.fea0becf.chunk.js.map",
+    "static/js/3.4891a56f.chunk.js": "/zoomApp/static/js/3.4891a56f.chunk.js",
+    "static/js/3.4891a56f.chunk.js.map": "/zoomApp/static/js/3.4891a56f.chunk.js.map",
+    "index.html": "/zoomApp/index.html",
+    "static/css/main.fa727fdb.chunk.css.map": "/zoomApp/static/css/main.fa727fdb.chunk.css.map",
+    "static/js/2.fea0becf.chunk.js.LICENSE.txt": "/zoomApp/static/js/2.fea0becf.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/zoomApp/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.abc7b9dd.js",
+    "static/js/2.fea0becf.chunk.js",
+    "static/css/main.fa727fdb.chunk.css",
+    "static/js/main.86346964.chunk.js"
+  ]
+}
